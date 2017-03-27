@@ -39,16 +39,3 @@ Then (re)start Parity:
 ```bash
 parity ui
 ```
-
-You will see your app listed there:
-
-image:images/parity.png[]
-
-Click on that link and you will see your DAPP:
-
-image:images/generated.png[]
-
-
-== License
-
-MIT
